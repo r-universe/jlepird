@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "prefeR"]
 	path = prefeR
 	url = https://github.com/jlepird/prefer
-	shallow = true
-	registered = true
